@@ -1,0 +1,10 @@
+spring:
+  devtools:
+    livereload:
+      enabled: true
+  config:
+    import: application-dev.yml
+  application:
+    name: MiniDB
+server:
+  port: 8081

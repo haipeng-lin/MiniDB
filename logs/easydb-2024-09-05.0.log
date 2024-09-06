@@ -1,0 +1,370 @@
+2024-09-05 14:27:19.772 [restartedMain] INFO  c.d.s.SimpleSqlDatabaseApplication - Starting SimpleSqlDatabaseApplication using Java 1.8.0_381 on DESKTOP-7U31LN4 with PID 2596 (D:\peng\code\Project\MiniDB\target\classes started by peng in D:\peng\code\Project\MiniDB)
+2024-09-05 14:27:19.773 [restartedMain] INFO  c.d.s.SimpleSqlDatabaseApplication - No active profile set, falling back to 1 default profile: "default"
+2024-09-05 14:27:19.814 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-09-05 14:27:19.815 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-09-05 14:27:21.582 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2024-09-05 14:27:21.583 [restartedMain] INFO  o.a.c.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.39] using APR version [1.7.4].
+2024-09-05 14:27:21.583 [restartedMain] INFO  o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+2024-09-05 14:27:21.583 [restartedMain] INFO  o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2024-09-05 14:27:21.635 [restartedMain] INFO  o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 3.0.11 19 Sep 2023]
+2024-09-05 14:27:21.644 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2024-09-05 14:27:21.645 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-09-05 14:27:21.645 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2024-09-05 14:27:21.734 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-09-05 14:27:21.734 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1919 ms
+2024-09-05 14:27:22.012 [restartedMain] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2024-09-05 14:27:22.126 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-09-05 14:27:22.138 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2024-09-05 14:27:22.153 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2024-09-05 14:27:22.159 [restartedMain] INFO  o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+2024-09-05 14:27:22.168 [restartedMain] INFO  c.d.s.SimpleSqlDatabaseApplication - Started SimpleSqlDatabaseApplication in 2.929 seconds (JVM running for 4.29)
+2024-09-05 14:27:45.233 [restartedMain] INFO  c.d.s.SimpleSqlDatabaseApplication - Starting SimpleSqlDatabaseApplication using Java 1.8.0_381 on DESKTOP-7U31LN4 with PID 2596 (D:\peng\code\Project\MiniDB\target\classes started by peng in D:\peng\code\Project\MiniDB)
+2024-09-05 14:27:45.234 [restartedMain] INFO  c.d.s.SimpleSqlDatabaseApplication - No active profile set, falling back to 1 default profile: "default"
+2024-09-05 14:27:45.580 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2024-09-05 14:27:45.581 [restartedMain] INFO  o.a.c.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.39] using APR version [1.7.4].
+2024-09-05 14:27:45.582 [restartedMain] INFO  o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+2024-09-05 14:27:45.582 [restartedMain] INFO  o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2024-09-05 14:27:45.584 [restartedMain] INFO  o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 3.0.11 19 Sep 2023]
+2024-09-05 14:27:45.585 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2024-09-05 14:27:45.586 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-09-05 14:27:45.586 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2024-09-05 14:27:45.635 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-09-05 14:27:45.636 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 398 ms
+2024-09-05 14:27:45.737 [restartedMain] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2024-09-05 14:27:45.809 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-09-05 14:27:45.821 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2024-09-05 14:27:45.826 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2024-09-05 14:27:45.834 [restartedMain] INFO  c.d.s.SimpleSqlDatabaseApplication - Started SimpleSqlDatabaseApplication in 0.665 seconds (JVM running for 27.955)
+2024-09-05 14:27:45.841 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation delta:
+
+
+==========================
+CONDITION EVALUATION DELTA
+==========================
+
+
+Positive matches:
+-----------------
+
+   TaskSchedulingAutoConfiguration#taskScheduler matched:
+      - @ConditionalOnBean (names: org.springframework.context.annotation.internalScheduledAnnotationProcessor; SearchStrategy: all) found bean 'org.springframework.context.annotation.internalScheduledAnnotationProcessor'; @ConditionalOnMissingBean (types: org.springframework.scheduling.annotation.SchedulingConfigurer,org.springframework.scheduling.TaskScheduler,java.util.concurrent.ScheduledExecutorService; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+
+Negative matches:
+-----------------
+
+    None
+
+
+Exclusions:
+-----------
+
+    None
+
+
+Unconditional classes:
+----------------------
+
+    None
+
+
+
+2024-09-05 14:27:49.503 [http-nio-8081-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-09-05 14:27:49.504 [http-nio-8081-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-09-05 14:27:49.505 [http-nio-8081-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-09-05 14:27:52.404 [restartedMain] INFO  c.d.s.SimpleSqlDatabaseApplication - Starting SimpleSqlDatabaseApplication using Java 1.8.0_381 on DESKTOP-7U31LN4 with PID 2596 (D:\peng\code\Project\MiniDB\target\classes started by peng in D:\peng\code\Project\MiniDB)
+2024-09-05 14:27:52.405 [restartedMain] INFO  c.d.s.SimpleSqlDatabaseApplication - No active profile set, falling back to 1 default profile: "default"
+2024-09-05 14:27:52.945 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2024-09-05 14:27:52.945 [restartedMain] INFO  o.a.c.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.39] using APR version [1.7.4].
+2024-09-05 14:27:52.945 [restartedMain] INFO  o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+2024-09-05 14:27:52.945 [restartedMain] INFO  o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2024-09-05 14:27:52.946 [restartedMain] INFO  o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 3.0.11 19 Sep 2023]
+2024-09-05 14:27:52.947 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2024-09-05 14:27:52.947 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-09-05 14:27:52.948 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2024-09-05 14:27:52.973 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-09-05 14:27:52.973 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 566 ms
+2024-09-05 14:27:53.054 [restartedMain] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2024-09-05 14:27:53.100 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-09-05 14:27:53.110 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2024-09-05 14:27:53.113 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2024-09-05 14:27:53.118 [restartedMain] INFO  o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+2024-09-05 14:27:53.119 [restartedMain] INFO  c.d.s.SimpleSqlDatabaseApplication - Started SimpleSqlDatabaseApplication in 0.742 seconds (JVM running for 35.241)
+2024-09-05 14:27:53.123 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation delta:
+
+
+==========================
+CONDITION EVALUATION DELTA
+==========================
+
+
+Positive matches:
+-----------------
+
+    None
+
+
+Negative matches:
+-----------------
+
+   TaskSchedulingAutoConfiguration#taskScheduler:
+      Did not match:
+         - @ConditionalOnMissingBean (types: org.springframework.scheduling.annotation.SchedulingConfigurer,org.springframework.scheduling.TaskScheduler,java.util.concurrent.ScheduledExecutorService; SearchStrategy: all) found beans of type 'org.springframework.scheduling.TaskScheduler' defaultSockJsTaskScheduler (OnBeanCondition)
+
+
+Exclusions:
+-----------
+
+    None
+
+
+Unconditional classes:
+----------------------
+
+    None
+
+
+
+2024-09-05 14:27:53.330 [http-nio-8081-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-09-05 14:27:53.330 [http-nio-8081-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-09-05 14:27:53.331 [http-nio-8081-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-09-05 14:27:57.192 [http-nio-8081-exec-3] INFO  c.d.s.w.TerminalWebSocketHandler - User with IP: 127.0.0.1, session ID: 316600cf-c689-132c-c208-07c85dad372d executed SQL: init
+2024-09-05 14:30:09.026 [restartedMain] INFO  c.d.s.SimpleSqlDatabaseApplication - Starting SimpleSqlDatabaseApplication using Java 1.8.0_381 on DESKTOP-7U31LN4 with PID 21516 (D:\peng\code\Project\MiniDB\target\classes started by peng in D:\peng\code\Project\MiniDB)
+2024-09-05 14:30:09.028 [restartedMain] INFO  c.d.s.SimpleSqlDatabaseApplication - No active profile set, falling back to 1 default profile: "default"
+2024-09-05 14:30:09.139 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-09-05 14:30:09.140 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-09-05 14:30:10.908 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2024-09-05 14:30:10.910 [restartedMain] INFO  o.a.c.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.39] using APR version [1.7.4].
+2024-09-05 14:30:10.910 [restartedMain] INFO  o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+2024-09-05 14:30:10.910 [restartedMain] INFO  o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2024-09-05 14:30:10.917 [restartedMain] INFO  o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 3.0.11 19 Sep 2023]
+2024-09-05 14:30:10.928 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2024-09-05 14:30:10.929 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-09-05 14:30:10.929 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2024-09-05 14:30:11.035 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-09-05 14:30:11.035 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1894 ms
+2024-09-05 14:30:11.348 [restartedMain] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2024-09-05 14:30:11.456 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-09-05 14:30:11.466 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2024-09-05 14:30:11.480 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2024-09-05 14:30:11.487 [restartedMain] INFO  o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+2024-09-05 14:30:11.498 [restartedMain] INFO  c.d.s.SimpleSqlDatabaseApplication - Started SimpleSqlDatabaseApplication in 3.456 seconds (JVM running for 5.286)
+2024-09-05 14:30:57.818 [http-nio-8081-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-09-05 14:30:57.818 [http-nio-8081-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-09-05 14:30:57.819 [http-nio-8081-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-09-05 14:33:40.622 [restartedMain] INFO  c.d.s.SimpleSqlDatabaseApplication - Starting SimpleSqlDatabaseApplication using Java 1.8.0_381 on DESKTOP-7U31LN4 with PID 21516 (D:\peng\code\Project\MiniDB\target\classes started by peng in D:\peng\code\Project\MiniDB)
+2024-09-05 14:33:40.622 [restartedMain] INFO  c.d.s.SimpleSqlDatabaseApplication - No active profile set, falling back to 1 default profile: "default"
+2024-09-05 14:33:40.849 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2024-09-05 14:33:40.849 [restartedMain] INFO  o.a.c.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.39] using APR version [1.7.4].
+2024-09-05 14:33:40.849 [restartedMain] INFO  o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+2024-09-05 14:33:40.849 [restartedMain] INFO  o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2024-09-05 14:33:40.850 [restartedMain] INFO  o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 3.0.11 19 Sep 2023]
+2024-09-05 14:33:40.851 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2024-09-05 14:33:40.852 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-09-05 14:33:40.852 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2024-09-05 14:33:40.882 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-09-05 14:33:40.882 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 257 ms
+2024-09-05 14:33:40.922 [restartedMain] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2024-09-05 14:33:40.960 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-09-05 14:33:40.967 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2024-09-05 14:33:40.970 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2024-09-05 14:33:40.974 [restartedMain] INFO  c.d.s.SimpleSqlDatabaseApplication - Started SimpleSqlDatabaseApplication in 0.416 seconds (JVM running for 214.762)
+2024-09-05 14:33:40.979 [restartedMain] INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener - Condition evaluation delta:
+
+
+==========================
+CONDITION EVALUATION DELTA
+==========================
+
+
+Positive matches:
+-----------------
+
+   TaskSchedulingAutoConfiguration#taskScheduler matched:
+      - @ConditionalOnBean (names: org.springframework.context.annotation.internalScheduledAnnotationProcessor; SearchStrategy: all) found bean 'org.springframework.context.annotation.internalScheduledAnnotationProcessor'; @ConditionalOnMissingBean (types: org.springframework.scheduling.annotation.SchedulingConfigurer,org.springframework.scheduling.TaskScheduler,java.util.concurrent.ScheduledExecutorService; SearchStrategy: all) did not find any beans (OnBeanCondition)
+
+
+Negative matches:
+-----------------
+
+    None
+
+
+Exclusions:
+-----------
+
+    None
+
+
+Unconditional classes:
+----------------------
+
+    None
+
+
+
+2024-09-05 14:39:58.040 [restartedMain] INFO  c.p.m.SimpleSqlDatabaseApplication - Starting SimpleSqlDatabaseApplication using Java 1.8.0_381 on DESKTOP-7U31LN4 with PID 24248 (D:\peng\code\Project\MiniDB\target\classes started by peng in D:\peng\code\Project\MiniDB)
+2024-09-05 14:39:58.042 [restartedMain] INFO  c.p.m.SimpleSqlDatabaseApplication - No active profile set, falling back to 1 default profile: "default"
+2024-09-05 14:39:58.085 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-09-05 14:39:58.085 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-09-05 14:39:58.997 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2024-09-05 14:39:58.998 [restartedMain] INFO  o.a.c.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.39] using APR version [1.7.4].
+2024-09-05 14:39:58.998 [restartedMain] INFO  o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+2024-09-05 14:39:58.998 [restartedMain] INFO  o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2024-09-05 14:39:59.026 [restartedMain] INFO  o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 3.0.11 19 Sep 2023]
+2024-09-05 14:39:59.036 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2024-09-05 14:39:59.036 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-09-05 14:39:59.036 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2024-09-05 14:39:59.123 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-09-05 14:39:59.123 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1037 ms
+2024-09-05 14:39:59.368 [restartedMain] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2024-09-05 14:39:59.544 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-09-05 14:39:59.557 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2024-09-05 14:39:59.575 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2024-09-05 14:39:59.587 [restartedMain] INFO  c.p.m.SimpleSqlDatabaseApplication - Started SimpleSqlDatabaseApplication in 2.013 seconds (JVM running for 3.138)
+2024-09-05 14:41:42.886 [restartedMain] INFO  c.p.m.SimpleSqlDatabaseApplication - Starting SimpleSqlDatabaseApplication using Java 1.8.0_381 on DESKTOP-7U31LN4 with PID 24248 (D:\peng\code\Project\MiniDB\target\classes started by peng in D:\peng\code\Project\MiniDB)
+2024-09-05 14:41:42.887 [restartedMain] INFO  c.p.m.SimpleSqlDatabaseApplication - No active profile set, falling back to 1 default profile: "default"
+2024-09-05 14:41:43.016 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2024-09-05 14:41:43.017 [restartedMain] INFO  o.a.c.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.39] using APR version [1.7.4].
+2024-09-05 14:41:43.017 [restartedMain] INFO  o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+2024-09-05 14:41:43.017 [restartedMain] INFO  o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2024-09-05 14:41:43.017 [restartedMain] INFO  o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 3.0.11 19 Sep 2023]
+2024-09-05 14:41:43.018 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2024-09-05 14:41:43.018 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-09-05 14:41:43.018 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2024-09-05 14:41:43.038 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-09-05 14:41:43.038 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 149 ms
+2024-09-05 14:41:43.071 [restartedMain] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2024-09-05 14:41:43.093 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-09-05 14:41:43.101 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2024-09-05 14:41:43.104 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2024-09-05 14:41:43.108 [restartedMain] INFO  c.p.m.SimpleSqlDatabaseApplication - Started SimpleSqlDatabaseApplication in 0.26 seconds (JVM running for 106.658)
+2024-09-05 14:42:03.613 [restartedMain] INFO  c.p.m.SimpleSqlDatabaseApplication - Starting SimpleSqlDatabaseApplication using Java 1.8.0_381 on DESKTOP-7U31LN4 with PID 6716 (D:\peng\code\Project\MiniDB\target\classes started by peng in D:\peng\code\Project\MiniDB)
+2024-09-05 14:42:03.614 [restartedMain] INFO  c.p.m.SimpleSqlDatabaseApplication - No active profile set, falling back to 1 default profile: "default"
+2024-09-05 14:42:03.648 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-09-05 14:42:03.648 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-09-05 14:42:04.470 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2024-09-05 14:42:04.471 [restartedMain] INFO  o.a.c.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.39] using APR version [1.7.4].
+2024-09-05 14:42:04.471 [restartedMain] INFO  o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+2024-09-05 14:42:04.471 [restartedMain] INFO  o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2024-09-05 14:42:04.475 [restartedMain] INFO  o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 3.0.11 19 Sep 2023]
+2024-09-05 14:42:04.481 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2024-09-05 14:42:04.481 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-09-05 14:42:04.481 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2024-09-05 14:42:04.553 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-09-05 14:42:04.553 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 904 ms
+2024-09-05 14:42:04.761 [restartedMain] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2024-09-05 14:42:04.907 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-09-05 14:42:04.917 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2024-09-05 14:42:04.929 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2024-09-05 14:42:04.939 [restartedMain] INFO  c.p.m.SimpleSqlDatabaseApplication - Started SimpleSqlDatabaseApplication in 1.729 seconds (JVM running for 2.699)
+2024-09-05 14:42:48.374 [http-nio-8081-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-09-05 14:42:48.374 [http-nio-8081-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-09-05 14:42:48.375 [http-nio-8081-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-09-05 14:44:38.614 [restartedMain] INFO  c.p.m.SimpleSqlDatabaseApplication - Starting SimpleSqlDatabaseApplication using Java 1.8.0_381 on DESKTOP-7U31LN4 with PID 4064 (D:\peng\code\Project\MiniDB\target\classes started by peng in D:\peng\code\Project\MiniDB)
+2024-09-05 14:44:38.615 [restartedMain] INFO  c.p.m.SimpleSqlDatabaseApplication - No active profile set, falling back to 1 default profile: "default"
+2024-09-05 14:44:38.727 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-09-05 14:44:38.727 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-09-05 14:44:40.342 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2024-09-05 14:44:40.343 [restartedMain] INFO  o.a.c.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.39] using APR version [1.7.4].
+2024-09-05 14:44:40.344 [restartedMain] INFO  o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+2024-09-05 14:44:40.344 [restartedMain] INFO  o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2024-09-05 14:44:40.349 [restartedMain] INFO  o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 3.0.11 19 Sep 2023]
+2024-09-05 14:44:40.359 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2024-09-05 14:44:40.360 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-09-05 14:44:40.360 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2024-09-05 14:44:40.475 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-09-05 14:44:40.475 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1747 ms
+2024-09-05 14:44:40.754 [restartedMain] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2024-09-05 14:44:40.888 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-09-05 14:44:40.899 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2024-09-05 14:44:40.922 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2024-09-05 14:44:40.933 [restartedMain] INFO  c.p.m.SimpleSqlDatabaseApplication - Started SimpleSqlDatabaseApplication in 2.778 seconds (JVM running for 3.881)
+2024-09-05 14:45:00.208 [http-nio-8081-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-09-05 14:45:00.208 [http-nio-8081-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-09-05 14:45:00.209 [http-nio-8081-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-09-05 14:45:39.968 [restartedMain] INFO  c.p.m.SimpleSqlDatabaseApplication - Starting SimpleSqlDatabaseApplication using Java 1.8.0_381 on DESKTOP-7U31LN4 with PID 24116 (D:\peng\code\Project\MiniDB\target\classes started by peng in D:\peng\code\Project\MiniDB)
+2024-09-05 14:45:39.970 [restartedMain] INFO  c.p.m.SimpleSqlDatabaseApplication - No active profile set, falling back to 1 default profile: "default"
+2024-09-05 14:45:40.009 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-09-05 14:45:40.010 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-09-05 14:45:41.005 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2024-09-05 14:45:41.006 [restartedMain] INFO  o.a.c.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.39] using APR version [1.7.4].
+2024-09-05 14:45:41.006 [restartedMain] INFO  o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+2024-09-05 14:45:41.006 [restartedMain] INFO  o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2024-09-05 14:45:41.010 [restartedMain] INFO  o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 3.0.11 19 Sep 2023]
+2024-09-05 14:45:41.017 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2024-09-05 14:45:41.017 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-09-05 14:45:41.017 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2024-09-05 14:45:41.099 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-09-05 14:45:41.099 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1089 ms
+2024-09-05 14:45:41.306 [restartedMain] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2024-09-05 14:45:41.415 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-09-05 14:45:41.426 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2024-09-05 14:45:41.439 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2024-09-05 14:45:41.449 [restartedMain] INFO  c.p.m.SimpleSqlDatabaseApplication - Started SimpleSqlDatabaseApplication in 2.103 seconds (JVM running for 3.366)
+2024-09-05 14:45:57.195 [http-nio-8081-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-09-05 14:45:57.195 [http-nio-8081-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-09-05 14:45:57.196 [http-nio-8081-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-09-05 14:49:18.571 [restartedMain] INFO  c.p.m.SimpleSqlDatabaseApplication - Starting SimpleSqlDatabaseApplication using Java 1.8.0_381 on DESKTOP-7U31LN4 with PID 23656 (D:\peng\code\Project\MiniDB\target\classes started by peng in D:\peng\code\Project\MiniDB)
+2024-09-05 14:49:18.572 [restartedMain] INFO  c.p.m.SimpleSqlDatabaseApplication - No active profile set, falling back to 1 default profile: "default"
+2024-09-05 14:49:18.608 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-09-05 14:49:18.608 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-09-05 14:49:20.050 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2024-09-05 14:49:20.051 [restartedMain] INFO  o.a.c.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.39] using APR version [1.7.4].
+2024-09-05 14:49:20.051 [restartedMain] INFO  o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+2024-09-05 14:49:20.051 [restartedMain] INFO  o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2024-09-05 14:49:20.056 [restartedMain] INFO  o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 3.0.11 19 Sep 2023]
+2024-09-05 14:49:20.063 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2024-09-05 14:49:20.064 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-09-05 14:49:20.064 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2024-09-05 14:49:20.148 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-09-05 14:49:20.148 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1539 ms
+2024-09-05 14:49:20.366 [restartedMain] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2024-09-05 14:49:20.474 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-09-05 14:49:20.486 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2024-09-05 14:49:20.501 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2024-09-05 14:49:20.508 [restartedMain] INFO  o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+2024-09-05 14:49:20.516 [restartedMain] INFO  c.p.m.SimpleSqlDatabaseApplication - Started SimpleSqlDatabaseApplication in 2.402 seconds (JVM running for 3.457)
+2024-09-05 14:49:30.887 [http-nio-8081-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-09-05 14:49:30.887 [http-nio-8081-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-09-05 14:49:30.888 [http-nio-8081-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-09-05 14:49:35.591 [http-nio-8081-exec-10] INFO  c.p.m.w.TerminalWebSocketHandler - User with IP: 127.0.0.1, session ID: 5a2e8a8f-a3aa-5211-2133-4f315ce18198 executed SQL: init
+2024-09-05 14:51:21.842 [http-nio-8081-exec-9] INFO  c.p.m.w.TerminalWebSocketHandler - User with IP: 127.0.0.1, session ID: 5a2e8a8f-a3aa-5211-2133-4f315ce18198 executed SQL: CREATE TABLE users ( id INT AUTO_INCREMENT PRIMARY KEY, username VARCHAR NOT NULL, email VARCHAR UNIQUE );
+2024-09-05 14:51:32.012 [http-nio-8081-exec-6] INFO  c.p.m.w.TerminalWebSocketHandler - User with IP: 127.0.0.1, session ID: 5a2e8a8f-a3aa-5211-2133-4f315ce18198 executed SQL: select * from table
+2024-09-05 14:51:48.428 [http-nio-8081-exec-1] INFO  c.p.m.w.TerminalWebSocketHandler - User with IP: 127.0.0.1, session ID: 5a2e8a8f-a3aa-5211-2133-4f315ce18198 executed SQL: select * from users
+2024-09-05 14:53:28.874 [restartedMain] INFO  c.p.m.SimpleSqlDatabaseApplication - Starting SimpleSqlDatabaseApplication using Java 1.8.0_381 on DESKTOP-7U31LN4 with PID 23584 (D:\peng\code\Project\MiniDB\target\classes started by peng in D:\peng\code\Project\MiniDB)
+2024-09-05 14:53:28.875 [restartedMain] INFO  c.p.m.SimpleSqlDatabaseApplication - No active profile set, falling back to 1 default profile: "default"
+2024-09-05 14:53:28.911 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-09-05 14:53:28.911 [restartedMain] INFO  o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor - For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-09-05 14:53:29.754 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8081 (http)
+2024-09-05 14:53:29.755 [restartedMain] INFO  o.a.c.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.39] using APR version [1.7.4].
+2024-09-05 14:53:29.755 [restartedMain] INFO  o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [true].
+2024-09-05 14:53:29.755 [restartedMain] INFO  o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2024-09-05 14:53:29.760 [restartedMain] INFO  o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 3.0.11 19 Sep 2023]
+2024-09-05 14:53:29.766 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8081"]
+2024-09-05 14:53:29.767 [restartedMain] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2024-09-05 14:53:29.767 [restartedMain] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.62]
+2024-09-05 14:53:29.845 [restartedMain] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2024-09-05 14:53:29.845 [restartedMain] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 933 ms
+2024-09-05 14:53:30.106 [restartedMain] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping - Adding welcome page: class path resource [static/index.html]
+2024-09-05 14:53:30.235 [restartedMain] INFO  o.s.b.d.a.OptionalLiveReloadServer - LiveReload server is running on port 35729
+2024-09-05 14:53:30.264 [restartedMain] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8081"]
+2024-09-05 14:53:30.309 [restartedMain] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8081 (http) with context path ''
+2024-09-05 14:53:30.322 [restartedMain] INFO  o.s.s.a.ScheduledAnnotationBeanPostProcessor - No TaskScheduler/ScheduledExecutorService bean found for scheduled processing
+2024-09-05 14:53:30.338 [restartedMain] INFO  c.p.m.SimpleSqlDatabaseApplication - Started SimpleSqlDatabaseApplication in 1.83 seconds (JVM running for 3.323)
+2024-09-05 15:16:06.553 [http-nio-8081-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-09-05 15:16:06.553 [http-nio-8081-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2024-09-05 15:16:06.554 [http-nio-8081-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 1 ms
+2024-09-05 15:16:16.926 [http-nio-8081-exec-6] INFO  c.p.m.w.TerminalWebSocketHandler - User with IP: 127.0.0.1, session ID: 6d763939-aca9-8f60-33db-5db2d5ccad51 executed SQL: show tables
+2024-09-05 15:16:21.912 [http-nio-8081-exec-7] INFO  c.p.m.w.TerminalWebSocketHandler - User with IP: 127.0.0.1, session ID: 6d763939-aca9-8f60-33db-5db2d5ccad51 executed SQL: init database
+2024-09-05 15:16:36.393 [http-nio-8081-exec-8] INFO  c.p.m.w.TerminalWebSocketHandler - User with IP: 127.0.0.1, session ID: 6d763939-aca9-8f60-33db-5db2d5ccad51 executed SQL: init
+2024-09-05 15:16:41.678 [http-nio-8081-exec-9] INFO  c.p.m.w.TerminalWebSocketHandler - User with IP: 127.0.0.1, session ID: 6d763939-aca9-8f60-33db-5db2d5ccad51 executed SQL: show tables
+2024-09-05 15:16:52.082 [http-nio-8081-exec-10] INFO  c.p.m.w.TerminalWebSocketHandler - User with IP: 127.0.0.1, session ID: 6d763939-aca9-8f60-33db-5db2d5ccad51 executed SQL: SHOW TABLES;
+2024-09-05 15:17:19.365 [http-nio-8081-exec-3] INFO  c.p.m.w.TerminalWebSocketHandler - User with IP: 127.0.0.1, session ID: 6d763939-aca9-8f60-33db-5db2d5ccad51 executed SQL: CREATE TABLE users ( id INT AUTO_INCREMENT PRIMARY KEY, username VARCHAR NOT NULL, email VARCHAR UNIQUE );
+2024-09-05 15:17:30.098 [http-nio-8081-exec-4] INFO  c.p.m.w.TerminalWebSocketHandler - User with IP: 127.0.0.1, session ID: 6d763939-aca9-8f60-33db-5db2d5ccad51 executed SQL: SHOW TABLES
+2024-09-05 15:17:38.738 [http-nio-8081-exec-5] INFO  c.p.m.w.TerminalWebSocketHandler - User with IP: 127.0.0.1, session ID: 6d763939-aca9-8f60-33db-5db2d5ccad51 executed SQL: SHOW TABLES;
+2024-09-05 15:17:57.023 [http-nio-8081-exec-6] INFO  c.p.m.w.TerminalWebSocketHandler - User with IP: 127.0.0.1, session ID: 6d763939-aca9-8f60-33db-5db2d5ccad51 executed SQL: SHOW USER;
+2024-09-05 15:18:08.784 [http-nio-8081-exec-7] INFO  c.p.m.w.TerminalWebSocketHandler - User with IP: 127.0.0.1, session ID: 6d763939-aca9-8f60-33db-5db2d5ccad51 executed SQL: SHOW USERS;
+2024-09-05 15:18:19.146 [http-nio-8081-exec-8] INFO  c.p.m.w.TerminalWebSocketHandler - User with IP: 127.0.0.1, session ID: 6d763939-aca9-8f60-33db-5db2d5ccad51 executed SQL: SHOW usesrs
+2024-09-05 15:18:32.637 [http-nio-8081-exec-9] INFO  c.p.m.w.TerminalWebSocketHandler - User with IP: 127.0.0.1, session ID: 6d763939-aca9-8f60-33db-5db2d5ccad51 executed SQL: SHOW users;
+2024-09-05 15:18:44.490 [http-nio-8081-exec-10] INFO  c.p.m.w.TerminalWebSocketHandler - User with IP: 127.0.0.1, session ID: 6d763939-aca9-8f60-33db-5db2d5ccad51 executed SQL: SHOW tables;
